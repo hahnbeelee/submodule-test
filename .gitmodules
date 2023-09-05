@@ -1,0 +1,3 @@
+[submodule "radiant-docs"]
+	path = radiant-docs
+	url = https://github.com/hahnbeelee/radiant-docs.git
